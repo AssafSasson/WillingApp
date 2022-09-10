@@ -1,0 +1,17 @@
+#MainDiv{
+    margin:0 auto;
+    border: solid black 2px;
+    border-radius: 8px;
+    margin-top: 25%;
+    width: 50%;
+    height: 300px;
+}
+
+.Btn{
+    background-color: lightgray;
+    padding: 15px;
+    margin: 10px;
+    font-size: x-large;
+    border:transparent  ;
+    box-shadow:4px 4px 4px black;
+}
